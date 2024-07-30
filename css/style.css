@@ -1,0 +1,27 @@
+/* Mantiene Checkbox e label allineate nel Todo */
+ul label {
+   display:inline;
+}
+
+/* Navbar Styling */
+.nav-link {
+   color: grey;
+}
+
+.nav-link.active {
+   color:white !important;
+}
+
+.navbar a:hover {
+   color: white;
+}
+
+/* Yellow Label with White Text */
+.text-bg-warning {
+   color:white !important;
+}
+
+/* Pencil and Trash icon in black while in an anchor */
+td a {
+   color:black;
+}
